@@ -30,7 +30,7 @@ El objetivo principal fue comprender el flujo de interacción entre el usuario y
 
 <div align="center">
   <img src="img/img.png" alt="Captura Skill Alexa" width="600"/>
-  <img src="img/imge.png" alt="Captura Skill Alexa" width="600"/>
+  <img src="img/image.png" alt="Captura Skill Alexa" width="600"/>
 
 </div>
 
