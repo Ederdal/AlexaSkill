@@ -1,0 +1,51 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "slots": [
+            {
+              "name": "pregunta",
+              "type": "AMAZON.SearchQuery"
+            }
+          ],
+          "name": "PreguntasIntent",
+          "samples": [
+            "quiero saber {pregunta}",
+            "muestra {pregunta}",
+            "me gustaría saber {pregunta}",
+            "puedes decirme {pregunta}",
+            "responde a {pregunta}",
+            "quien creo esta skill",
+            "cual es su color favorito",
+            "que carrera estudia",
+            "cual es su grupo favorito",
+            "cual es su grupo o cantante favorito"
+          ]
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        }
+      ],
+      "types": [],
+      "invocationName": "preguntas personales"
+    }
+  }
+}
